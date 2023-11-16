@@ -1,4 +1,5 @@
 # Learning Semantics of Classes in Image Classification
+Here's scripts and results in my experiments in master thesis
 
 ## Files
 
